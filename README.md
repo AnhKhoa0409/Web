@@ -19,4 +19,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[Apache License 2.0](http://www.apache.org/licenses/)
