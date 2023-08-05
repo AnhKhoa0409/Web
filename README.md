@@ -15,6 +15,8 @@ git clone https://github.com/AnhKhoa0409/Web.git
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 Please make sure to update tests as appropriate.
 
 ## License
